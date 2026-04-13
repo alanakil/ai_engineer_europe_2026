@@ -1,6 +1,6 @@
 # AI Engineer Europe 2026 — Key Takeaways
 
-## Meta-themes
+## Themes
 
 Three ideas cut across nearly every talk:
 
