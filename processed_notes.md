@@ -107,6 +107,12 @@ Pipeline: user activity sequences → user embeddings (transformer-based) → se
 
 ---
 
+## FOMAT — Fear Of Missing Agent Time
+
+Engineers want to be talking to Claude Code all the time. At the conference itself, you could look around any room and see people with a terminal open, mid-session. The anxiety of *not* coding with an agent — of stepping away and losing that productive flow — is real. FOMO, but for agent time.
+
+---
+
 ## One-liners Worth Keeping
 
 - *"The gap is not intelligence. It's context."* — Karpathy (quoted by Peter Werry)
@@ -115,3 +121,7 @@ Pipeline: user activity sequences → user embeddings (transformer-based) → se
 - *"2026 is all about connectivity."* — David Soria-Parra
 - *"Implementation is now a solved problem. Alignment and communication are the bottleneck."* — Maggie Appleton
 - *"Code is the only composable tool."* — Kitze
+
+---
+
+*These notes were distilled from [`notes.md`](notes.md) with the help of Claude Sonnet 4.6.*
